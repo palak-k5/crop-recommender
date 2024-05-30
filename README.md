@@ -16,7 +16,7 @@ Back-End (Flask/Django)<br />
 Product Analysis & Design<br />
 FASTN
 
-Contributors
+Contributors<br/>
 Aditya Agrawal -ML and modelling<br />
 Rachita Dashore- front-end ,UI and Back-End<br />
 Purvi Choure- ML and modelling<br />
