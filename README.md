@@ -1,4 +1,4 @@
-![image](https://github.com/palak-k5/crop-recommender/assets/100283614/c2709010-9863-41c8-8a13-4c1d6e9d4a1c)Crop Recommendation System
+Crop Recommendation System
 
 All the details regarding the this Project are present here<br />
 
