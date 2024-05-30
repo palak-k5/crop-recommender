@@ -8,7 +8,7 @@ The user can provide the soil data from their side manually and the application 
 
 Technologies Used
 
-Machine learning,
+Machine learning,<br />
 Deep Learning,
 Data Analysis,
 Front-End (Web Design/HTML & CSS),
